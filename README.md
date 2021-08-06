@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evelynCWS
-- 👀 I’m interested in website building, Database construction, Java, C, C++, Linux, WinOS, macOS!
+- 👀 I’m interested in website building, Database construction using MySQL and NodeJS, Java, C, C++, Linux, WinOS, macOS
 - 🌱 I’m currently learning how to design databases and build websites. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at evelyn@coilws.com.
